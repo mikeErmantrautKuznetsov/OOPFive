@@ -1,0 +1,15 @@
+D:\Visual Studio\OOPFive\bin\Debug\net7.0\OOPFive.exe
+D:\Visual Studio\OOPFive\bin\Debug\net7.0\OOPFive.deps.json
+D:\Visual Studio\OOPFive\bin\Debug\net7.0\OOPFive.runtimeconfig.json
+D:\Visual Studio\OOPFive\bin\Debug\net7.0\OOPFive.dll
+D:\Visual Studio\OOPFive\bin\Debug\net7.0\OOPFive.pdb
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.csproj.AssemblyReference.cache
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.AssemblyInfoInputs.cache
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.AssemblyInfo.cs
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.csproj.CoreCompileInputs.cache
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.dll
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\refint\OOPFive.dll
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.pdb
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\OOPFive.genruntimeconfig.cache
+D:\Visual Studio\OOPFive\obj\Debug\net7.0\ref\OOPFive.dll
